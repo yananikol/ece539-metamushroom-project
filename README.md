@@ -1,1 +1,1 @@
-# ece539-metamushroom-project
+# Meta-Mushroom: Automatic Fungi Classification
